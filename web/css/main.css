@@ -1,0 +1,276 @@
+/* line 104, icon/*.png */
+.icon-sprite, .icon-ic-arbre, .icon-ic-dribble, .icon-ic-facebook, .icon-ic-googleplus, .icon-ic-in, .icon-ic-pinterest, .icon-ic-twitter, .icon-ic-youtube {
+  background-image: url('../images/icon-s1bc04bf976.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-ic-arbre {
+  background-position: 0 0;
+  height: 60px;
+  width: 60px;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-ic-dribble {
+  background-position: 0 -60px;
+  height: 60px;
+  width: 60px;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-ic-facebook {
+  background-position: 0 -120px;
+  height: 60px;
+  width: 60px;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-ic-googleplus {
+  background-position: 0 -180px;
+  height: 60px;
+  width: 60px;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-ic-in {
+  background-position: 0 -240px;
+  height: 60px;
+  width: 60px;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-ic-pinterest {
+  background-position: 0 -300px;
+  height: 60px;
+  width: 60px;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-ic-twitter {
+  background-position: 0 -360px;
+  height: 60px;
+  width: 60px;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-ic-youtube {
+  background-position: 0 -420px;
+  height: 60px;
+  width: 60px;
+}
+
+/* line 2, ../sass/_bs.scss */
+.posre {
+  position: relative;
+}
+
+/* line 7, ../sass/_bs.scss */
+.bg-primary {
+  padding: 15px;
+  position: absolute;
+  width: 100%;
+  top: -55px;
+}
+/* line 13, ../sass/_bs.scss */
+.bg-primary:after {
+  content: " ";
+  position: absolute;
+  bottom: -5px;
+  left: 35px;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #337ab7;
+}
+
+/* line 5, ../sass/main.scss */
+.social-share li a {
+  display: block;
+}
+
+/*
+.block {
+	display: block;
+}
+*/
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+/* line 17, ../sass/main.scss */
+body {
+  background: transparent url("../images/bg-pattern.png") repeat;
+  font-family: 'Share Tech Mono', sans-serif;
+  font-size: 14px;
+}
+
+/* line 24, ../sass/main.scss */
+.navbar {
+  margin-bottom: 0;
+  background: white;
+  -webkit-box-shadow: 0px 2px 16px -4px rgba(0, 0, 0, 0.41);
+  -moz-box-shadow: 0px 2px 16px -4px rgba(0, 0, 0, 0.41);
+  box-shadow: 0px 2px 16px -4px rgba(0, 0, 0, 0.41);
+}
+
+/* line 34, ../sass/main.scss */
+.navbar-brand {
+  height: auto;
+  padding: 0;
+  margin-left: 0 !important;
+}
+
+/* Menu top */
+/* line 42, ../sass/main.scss */
+.menu-main {
+  margin-bottom: 0;
+}
+
+/* line 46, ../sass/main.scss */
+.menu-main li {
+  display: inline-block;
+  line-height: 76px;
+  margin-right: 15px;
+}
+
+/* line 53, ../sass/main.scss */
+.menu-main li a {
+  color: #898784;
+  font-size: 24px;
+}
+
+/* Carousel */
+/* line 59, ../sass/main.scss */
+.item img {
+  width: 100%;
+}
+
+/* line 63, ../sass/main.scss */
+.item .carousel-caption {
+  position: absolute;
+  bottom: 40px;
+  left: 30px;
+  font-size: 72px;
+  text-shadow: 0 1px 1px black;
+  text-align: left;
+}
+
+/* line 74, ../sass/main.scss */
+.item .carousel-caption span {
+  font-size: 36px;
+}
+
+/* Content */
+/* line 79, ../sass/main.scss */
+.content {
+  overflow: auto;
+}
+
+/* Aside */
+/* line 84, ../sass/main.scss */
+.content aside {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+/* line 89, ../sass/main.scss */
+aside:before {
+  content: " ";
+  position: absolute;
+  top: 0;
+  height: 10px;
+  width: 100%;
+  background: #cccccc;
+}
+
+/* line 99, ../sass/main.scss */
+aside h2 {
+  padding: 20px;
+  margin-top: 60px;
+  margin-bottom: 0;
+  background: #cccccc;
+  color: #33789c;
+  font-size: 18px;
+}
+
+/* line 111, ../sass/main.scss */
+aside ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-bottom: 5px solid #cccccc;
+}
+
+/* line 119, ../sass/main.scss */
+aside ul li {
+  line-height: 50px;
+  background: white;
+  padding-left: 20px;
+  border-left: 1px solid #ededed;
+  border-right: 1px solid #ededed;
+  border-top: 1px solid #4c4c4c;
+}
+
+/* line 131, ../sass/main.scss */
+aside ul li:first-child {
+  border: none;
+}
+
+/* line 133, ../sass/main.scss */
+aside ul li a {
+  color: #4c4c4c;
+  font-size: 18px;
+}
+
+/* Section */
+/* line 140, ../sass/main.scss */
+.content section {
+  padding: 0;
+  background: white;
+  border: 1px solid #ededed;
+  border-bottom: 5px solid #cccccc;
+}
+
+/* line 148, ../sass/main.scss */
+.content article {
+  padding: 80px;
+}
+
+/* line 152, ../sass/main.scss */
+.content section h2 {
+  font-size: 36px;
+}
+
+/* line 156, ../sass/main.scss */
+.content section h3 {
+  font-size: 18px;
+}
+
+/* line 160, ../sass/main.scss */
+.social-share {
+  list-style: none;
+  margin: 0;
+  padding: 70px 0;
+  width: 100%;
+  background: #fafafa;
+  border-top: 1px solid #cccccc;
+  text-align: center;
+}
+
+/* line 172, ../sass/main.scss */
+.social-share li {
+  display: inline-block;
+}
+
+/* Footer */
+/* line 182, ../sass/main.scss */
+footer {
+  margin-top: 30px;
+  color: #33789c;
+}
+
+/* line 187, ../sass/main.scss */
+footer a {
+  color: #cccccc;
+}

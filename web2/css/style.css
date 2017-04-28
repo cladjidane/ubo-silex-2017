@@ -1,0 +1,13 @@
+.test {
+    color: red;
+    padding: 20px;
+
+    border: 1px solid black;
+    background: silver;
+}
+
+.test-image {
+  max-width: 100px;
+  float: left;
+  margin: 0 10px 8px 0;
+}

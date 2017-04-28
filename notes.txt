@@ -1,0 +1,4 @@
+// Notes
+
+Les fichiers app2, sont une variante du projet.
+Une base de données est couplée à la V2

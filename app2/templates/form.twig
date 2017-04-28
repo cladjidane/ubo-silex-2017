@@ -1,0 +1,15 @@
+{% extends "layout.twig" %}
+
+{% block title %}
+    <h2>{{ title }}</h2>
+{% endblock %}
+
+{% block content %}
+    <article>        
+        <form action="#" method="post">
+		    {{ form_widget(form) }}
+
+		    <input type="submit" name="submit" />
+		</form>
+    </article>
+{% endblock %}

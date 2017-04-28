@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<datas>
+  <data>
+     <title>Koala Australien</title>
+     <info>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </info>
+  </data>
+  <data>
+     <title>Koala Japonais</title>
+     <info>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </info>
+  </data>
+  <data>
+     <title>Koala Allemand</title>
+     <info>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </info>
+  </data>
+  <data>
+     <title>Koala schtroumps</title>
+     <info>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </info>
+  </data>
+</BookList>
